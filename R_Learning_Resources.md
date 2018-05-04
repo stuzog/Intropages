@@ -36,7 +36,7 @@ Robin Lovelace](https://csgillespie.github.io/efficientR/)
 
 * [**R-bloggers - R news and tutorials by R bloggers**](https://www.r-bloggers.com/)
 * [RWeekly.org - Blogs to Learn R from the Community](https://rweekly.org/)
-* [Statistics Blogs @ StatsBlogs.com - All About Statistics |](http://www.statsblogs.com/)
+* [Statistics Blogs @ StatsBlogs.com - All About Statistics](http://www.statsblogs.com/)
 
 ### Corporate/NGO 
 
