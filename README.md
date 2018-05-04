@@ -12,16 +12,16 @@ Good luck with your R learning!
 
 ## Contents
 
-[Setup](Setup.html)
+[Setup](https://stuzog.github.io/Setup.html)
 
 **Part 1**
 
-* [R For Data Science](Part1_R_Data_Science.html)
-* [The RStudio IDE](RStudio.html)
-* [The RStudio Ecosystem](RStudio_Ecosystem.html)
+* [R For Data Science](https://stuzog.github.io/Intropages/Part1_R_Data_Science.html)
+* [The RStudio IDE](https://stuzog.github.io/RStudio.html)
+* [The RStudio Ecosystem](https://stuzog.github.io/RStudio_Ecosystem.html)
 
 **Part2**
 
-* [Fundamentals of R](Part2_R_Programming.html)
+* [Fundamentals of R](https://stuzog.github.io/Part2_R_Programming.html)
 
-[Learning Resources](R_Learning_Resources.html)
+[Learning Resources](https://stuzog.github.io/R_Learning_Resources.html)
